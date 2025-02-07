@@ -13,4 +13,4 @@ A simple and modern weather application that allows users to search for the curr
 - JavaScript
 
 ## Live Demo
-View Live Demo (Replace with your live demo link)
+View Live Demo (https://s4urav07.github.io/Weather_App/)
